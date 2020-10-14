@@ -1,8 +1,6 @@
 ATTILA GPU Simulator
 ===============
 
-[![Compile](https://travis-ci.org/attila-gpu/attila-sim.svg)](https://travis-ci.org/attila-gpu/attila-sim)
-
 Introduction
 -------------
 
